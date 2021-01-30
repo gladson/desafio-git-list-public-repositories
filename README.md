@@ -70,4 +70,3 @@ $ keytool -importkeystore -srckeystore .\keystore\key.jks -destkeystore .\keysto
 
 > Foi gerado o keystore.
 > O Github limita a listagem para 100 itens.
-> Agradeço a vocês pessoal, Felipe Delvan e Douglas Costa pelos esclarecimentos do projeto.
