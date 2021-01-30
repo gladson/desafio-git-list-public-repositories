@@ -40,3 +40,4 @@ flutter_icons:
   android: "launcher_icon"
   ios: true
   image_path: "assets/images/icon/logo_immensa_slogan.png"
+  adaptive_icon_background: "#30A35A"
